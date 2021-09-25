@@ -1,4 +1,4 @@
-### Welcome 
+### Welcome.
 
 <!--
 **JoshuaCMorgan/JoshuaCMorgan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,7 +14,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-I am Joshua Morgan, and I am currently focused on learning the fundamentals of software programming at [Launch School](https://launchschool.com/) Feel free to look around.
+My name is Joshua Morgan, a software programming student at [Launch School](https://launchschool.com/). Feel free to look around.
 
 #### Places online you can find me:
 - [linkedIn](https://www.linkedin.com/in/joshua-morgan77/)
