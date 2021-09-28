@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 -->
 My name is Joshua Morgan, a software developement student at [Launch School](https://launchschool.com/). Feel free to look around. 
 
-[And check out my resume](https://github.com/JoshuaCMorgan/resume/blob/main/github_resume2021.pdf), if you would like.
+[And check out my resume](https://github.com/JoshuaCMorgan/resume/blob/main/github_resume_2021.pdf), if you would like.
 
 #### Places online you can find me:
 - [linkedIn](https://www.linkedin.com/in/joshua-morgan77/)
