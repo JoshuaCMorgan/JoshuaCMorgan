@@ -20,7 +20,7 @@ My name is Joshua Morgan, a software developement student at [Launch School](htt
 - Ruby Procedural Programs: ([link to repository](https://github.com/JoshuaCMorgan/RB101/tree/main/lesson_6))
 - Ruby Object-Oriented Programs: ([link to repository](https://github.com/JoshuaCMorgan/rb120/tree/main/oop_projects))
 - Ruby Web-based Application: ([link to app](https://ls-josh-sinatra-todos-db.herokuapp.com/lists)) ([link to repository](https://github.com/JoshuaCMorgan/sinatra_todos_db))
-- [HTML/CSS](https://github.com/JoshuaCMorgan/ls202/tree/main/final_projects)
+- HTML/CSS: ([link to repository](https://github.com/JoshuaCMorgan/ls202/tree/main/final_projects))
 
 #### Places online you can find me:
 - [linkedIn](https://www.linkedin.com/in/joshua-morgan77/)
