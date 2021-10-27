@@ -17,9 +17,9 @@ Here are some ideas to get you started:
 My name is Joshua Morgan, a software developement student at [Launch School](https://launchschool.com/). Feel free to look around. 
 
 [And check out my resume](https://github.com/JoshuaCMorgan/resume/blob/main/github_resume_2021.pdf), if you would like.  For faster access, here are links to the items in the section: Projects Focused on First Principles.
-- [Ruby Procedural Programs](https://github.com/JoshuaCMorgan/RB101/tree/main/lesson_6)
-- [Ruby Object-Oriented Programs](https://github.com/JoshuaCMorgan/rb120/tree/main/oop_projects)
-- Ruby Web-based Application [link to app](https://ls-josh-sinatra-todos-db.herokuapp.com/lists) [link to repository](https://github.com/JoshuaCMorgan/sinatra_todos_db)
+- Ruby Procedural Programs: [link to repository](https://github.com/JoshuaCMorgan/RB101/tree/main/lesson_6)
+- Ruby Object-Oriented Programs: [link to repository](https://github.com/JoshuaCMorgan/rb120/tree/main/oop_projects)
+- Ruby Web-based Application ([link to app](https://ls-josh-sinatra-todos-db.herokuapp.com/lists)) ([link to repository](https://github.com/JoshuaCMorgan/sinatra_todos_db))
 - [HTML/CSS](https://github.com/JoshuaCMorgan/ls202/tree/main/final_projects)
 
 #### Places online you can find me:
