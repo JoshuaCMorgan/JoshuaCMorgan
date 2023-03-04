@@ -27,5 +27,4 @@ For faster access, here are links to the items in the resume section: Projects F
 #### Places online you can find me:
 - [linkedIn](https://www.linkedin.com/in/joshua-morgan77/)
 - [Instagram1](https://www.instagram.com/joshua.c.morgan/)
-- [Instagram2](https://www.instagram.com/joshkarenphotography/)
 - [Codewars](https://www.codewars.com/users/JoshuaCMorgan)
