@@ -14,7 +14,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-My name is Joshua Morgan, a software developement student at [Launch School](https://launchschool.com/). Feel free to look around. 
+My name is Joshua Morgan, a recent graduate of [Launch School](https://launchschool.com/)'s Core Curriculum. Feel free to look around. 
 
 [And check out my resume](https://github.com/JoshuaCMorgan/resume/blob/main/github_resume_2021.pdf), if you would like. 
 
