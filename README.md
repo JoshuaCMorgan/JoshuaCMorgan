@@ -14,7 +14,8 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-My name is Joshua Morgan, a recent graduate of [Launch School](https://launchschool.com/)'s Core Curriculum. Feel free to look around. 
+My name is Joshua Morgan, a full-Stack software developer with experience in both Ruby and JavaScript ecosystems. Solving problems through code and creating incredible user experiences on the web through accessible and performant applications is what I do. 
+Feel free to look around. 
 
 [And check out my resume](https://github.com/JoshuaCMorgan/resume/blob/main/morgan-resume-2023.pdf), if you would like. 
 
