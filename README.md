@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 -->
 My name is Joshua Morgan, a recent graduate of [Launch School](https://launchschool.com/)'s Core Curriculum. Feel free to look around. 
 
-[And check out my resume](https://github.com/JoshuaCMorgan/resume/blob/main/github_resume_2021.pdf), if you would like. 
+[And check out my resume](https://github.com/JoshuaCMorgan/resume/blob/main/morgan-resume-2023.pdf), if you would like. 
 
 <!-- For faster access, here are links to the items in the resume section: Projects Focused on First Principles.
 - Ruby Procedural Programs: ([link to repository](https://github.com/JoshuaCMorgan/RB101/tree/main/lesson_6))
