@@ -18,12 +18,16 @@ My name is Joshua Morgan, a full-Stack software developer with experience in bot
 Feel free to look around. 
 
 [And check out my resume](https://github.com/JoshuaCMorgan/resume/blob/main/morgan-resume-2023.pdf), if you would like. 
+ ------
+### Here are some projects I've been working on lately:
+- "In Season Produce" - Full-stack Application
+  -  [link to repository](https://github.com/JoshuaCMorgan/in-season)
+  - [link to website](https://in-season-produce.onrender.com)
+- "Guardians Detailing" - Single-page Business website
+  - [link to respository](https://github.com/JoshuaCMorgan/business_homepage)
+  - [link to website](https://guardians-detailing.onrender.com)
 
-<!-- For faster access, here are links to the items in the resume section: Projects Focused on First Principles.
-- Ruby Procedural Programs: ([link to repository](https://github.com/JoshuaCMorgan/RB101/tree/main/lesson_6))
-- Ruby Object-Oriented Programs: ([link to repository](https://github.com/JoshuaCMorgan/rb120/tree/main/oop_projects))
-- Ruby Web-based Application: ([link to app](https://ls-josh-sinatra-todos-db.herokuapp.com/lists)) ([link to repository](https://github.com/JoshuaCMorgan/sinatra_todos_db))
-- HTML/CSS: ([link to repository](https://github.com/JoshuaCMorgan/ls202/tree/main/final_projects)) -->
+-------------
 
 #### Places online you can find me:
 - [linkedIn](https://www.linkedin.com/in/joshuacmorgan/)
