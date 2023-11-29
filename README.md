@@ -20,6 +20,8 @@ Feel free to look around.
 [And check out my resume](https://github.com/JoshuaCMorgan/resume/blob/main/morgan-resume-2023.pdf), if you would like. 
  ------
 ### Here are some projects I've been working on lately:
+- React Job Simulator - working as a React developer
+ - [link to repository](https://github.com/profydev/prolog-app-JoshuaCMorgan)
 - "In Season Produce" - Full-stack Application
   -  [link to repository](https://github.com/JoshuaCMorgan/in-season)
   - [link to website](https://in-season-produce.onrender.com)
