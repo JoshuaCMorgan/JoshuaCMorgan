@@ -21,7 +21,7 @@ Feel free to look around.
  ------
 ### Here are some projects I've been working on lately:
 - React Job Simulator - working as a React developer
- - [link to repository](https://github.com/profydev/prolog-app-JoshuaCMorgan)
+  - [link to repository](https://github.com/profydev/prolog-app-JoshuaCMorgan)
 - "In Season Produce" - Full-stack Application
   -  [link to repository](https://github.com/JoshuaCMorgan/in-season)
   - [link to website](https://in-season-produce.onrender.com)
