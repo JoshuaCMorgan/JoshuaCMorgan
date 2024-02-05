@@ -33,5 +33,5 @@ Feel free to look around.
 
 #### Places online you can find me:
 - [linkedIn](https://www.linkedin.com/in/joshuacmorgan/)
-- [Instagram](https://www.instagram.com/joshua.c.morgan/)
-- [Codewars](https://www.codewars.com/users/JoshuaCMorgan)
+- 
+- [Youtube](https://www.youtube.com/@joshuacmorgan)
