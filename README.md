@@ -14,14 +14,14 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-My name is Joshua Morgan, a full-Stack software developer with experience in both Ruby and JavaScript ecosystems. Solving problems through code and creating incredible user experiences on the web through accessible and performant applications is what I do. 
+My name is Joshua Morgan, a full-Stack software developer with experience in the JavaScript ecosystem. Solving problems through code and creating incredible user experiences on the web through accessible and performant applications is what I do. 
 Feel free to look around. 
 
 [And check out my resume](https://github.com/JoshuaCMorgan/resume/blob/main/morgan-resume-current.pdf), if you would like. 
 
  ------
 ### Here are some projects I've been working on lately:
-- React Job Simulator - working as a React developer
+- React Job Simulator - working as a React developer on ProLog, an error tracking tool that software developers can use to monitor their applications for bugs.
   - [link to repository](https://github.com/profydev/prolog-app-JoshuaCMorgan)
 - "In Season Produce" - Full-stack MERN Application
   -  [link to repository](https://github.com/JoshuaCMorgan/in-season)
